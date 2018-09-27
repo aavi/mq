@@ -1,0 +1,13 @@
+  mq:
+    source:
+        host:
+        port:
+        qm:
+        channel:
+        queue:
+    dest:
+        host:
+        port:
+        qm:
+        channel:
+        queue:
